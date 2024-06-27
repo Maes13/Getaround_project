@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+statsmodels
+seaborn
+plotly
+openpyxl
+streamlit
+streamlit-lottie
+streamlit-option-menu
+bokeh==2.4.3
