@@ -10,10 +10,10 @@ Getaround, une plateforme de location de voitures entre particuliers, a rapideme
 
 ### Objectifs :
 
-Analyser l'impact de l'introduction d'un délai minimum entre les locations sur les revenus des propriétaires.
-Déterminer le nombre de locations potentiellement affectées par cette nouvelle politique.
-Développer un tableau de bord interactif pour permettre à l'équipe de gestion des produits de prendre des décisions basées sur des données concrètes.
-Créer un endpoint de prédiction utilisant des algorithmes d'apprentissage automatique pour optimiser les prix des locations, améliorant ainsi la rentabilité tout en assurant une disponibilité optimale des véhicules.
+- Analyser l'impact de l'introduction d'un délai minimum entre les locations sur les revenus des propriétaires.
+- Déterminer le nombre de locations potentiellement affectées par cette nouvelle politique.
+- Développer un tableau de bord interactif pour permettre à l'équipe de gestion des produits de prendre des décisions basées sur des données concrètes.
+- Créer un endpoint de prédiction utilisant des algorithmes d'apprentissage automatique pour optimiser les prix des locations, améliorant ainsi la rentabilité tout en assurant une disponibilité optimale des véhicules.
 
 
 ## Deliverables
